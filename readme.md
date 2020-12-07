@@ -6,8 +6,8 @@ Andrew West
 *Any questions or problems please call me.*
 
 ## Java
-For simplicity, I used [bash](java/bash.bat) commands to run [this](script.java) Java program.  It's functionally identical to the python versions.
-```bash
+For simplicity, I used [bash](java/bash.bat) commands to run [this](java/script.java) Java program.  It's functionally identical to the python versions.
+```
 cd %~dp0
 javac -cp lib/* script.java
 java -cp lib/*; script
